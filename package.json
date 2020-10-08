@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "Gatsby-Template",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "Elies Template for Gatsby sites",
   "version": "0.1.0",
   "license": "0BSD",
   "scripts": {
@@ -15,8 +15,12 @@
   },
   "dependencies": {
     "gatsby": "^2.24.67",
+    "gatsby-plugin-react-helmet": "^3.3.13",
+    "gatsby-plugin-sass": "^2.3.16",
+    "node-sass": "^4.14.1",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "react-helmet": "^6.1.0"
   },
   "devDependencies": {
     "prettier": "2.1.2"
